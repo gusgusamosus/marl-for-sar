@@ -1,0 +1,35 @@
+MADDPG Training Evaluation Report
+===============================
+
+Training Date: March 28, 2025
+Evaluation Date: March 28, 2025
+
+Episode Statistics
+-----------------
+Total Episodes: 1000
+Total Environment Steps: 125,450
+Average Steps per Episode: 125.45
+
+Reward Statistics
+----------------
+Average Agent Reward: 50.06
+Minimum Reward: -26.36
+Maximum Reward: 126.72
+Reward Standard Deviation: 43.32
+
+Performance Metrics
+-----------------
+First 10 Episodes Average Reward: -23.97
+Last 10 Episodes Average Reward: 124.39
+Overall Improvement: 148.36
+Average Captures per Episode: 6.51
+
+Training Progress
+----------------
+Episode Ranges    | Avg Reward | Avg Captures
+---------------------------------------------
+Episodes 1- 200 |      -9.92 |         2.51
+Episodes 201- 400 |      20.04 |         4.51
+Episodes 401- 600 |      50.03 |         6.51
+Episodes 601- 800 |      80.09 |         8.51
+Episodes 801-1000 |     110.06 |        10.51
