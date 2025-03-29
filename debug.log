@@ -1,4 +1,0 @@
-usage: main.py [-h] --mode {train,evaluate} [--episodes EPISODES] [--render]
-               [--model-path MODEL_PATH] [--save-interval SAVE_INTERVAL]
-               [--eval-episodes EVAL_EPISODES]
-main.py: error: unrecognized arguments: --debug
